@@ -1,5 +1,5 @@
 # Wikit
-Faze pesquisas diretamente na Wikipedia
+Faz pesquisas diretamente na Wikipedia
 
 ## Como fazer a pesquisa:
 
