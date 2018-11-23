@@ -9,7 +9,3 @@ Faz pesquisas diretamente na Wikipedia
 
 * Clique com o botão direito do mouse
 * Na caixa de contexto selecione o Wikit
-
-
-![Imagem](https://octodex.github.com/images/yaktocat.png)
-
