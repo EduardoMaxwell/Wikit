@@ -16,3 +16,5 @@ Faz pesquisas diretamente na Wikipedia
 ### Na caixa de contexto selecione o Wikit
 
 * Será aberto uma nova janela diretamente na Wikipedia com o resultado da pesquisa.
+
+#Alteração feita via nova branch (branch-teste)
